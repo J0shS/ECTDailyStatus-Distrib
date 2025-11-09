@@ -1,6 +1,6 @@
 ﻿{
-  "min_supported_version": "0.1.4.0",
-  "latest_version": "0.1.4.0",
-  "message": "Please update ECT Daily Status to 0.1.3.",
+  "min_supported_version": "0.1.3.0",
+  "latest_version": "0.1.3.0",
+  "message": "ECT Daily Status updated. Please update your version to 0.1.3.",
   "download_url": "https://github.com/J0shS/ECTDailyStatus-Distrib/releases/download/Setup_ECT.Daily.Status_0.1.3.exe"
 }
